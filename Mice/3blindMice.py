@@ -12,4 +12,4 @@ print(f"{b}" "\n\tBlind\n\t\tMice")
 ## TEMPERATURE CONVERTER
 #u = int(input("What is the current temperature outside in farennheit? "))
 #temp = (u-32)*5/9
-#print("That means it is currently",f"{temp:.1f}","degrees celsius outside.")
+#print("That means it is currently",f"{temp:.1f}""°C outside.")
