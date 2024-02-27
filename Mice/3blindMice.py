@@ -1,4 +1,3 @@
-#below is the actual Blind Mice Code!
 b = int(input("How many mice are there? "))
 print(f"{b}" "\n\tBlind\n\t\tMice")
 
