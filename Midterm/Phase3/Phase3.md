@@ -22,7 +22,7 @@ def drawObject(x, y, s):
 
 ## Part 2: Calling Functions and Executing
 
-### As I mentioned earlier, I thought it would be funny to make small scale faces and use tehm as the eyes of the big central face, so that's what I did. I ended up getting a little carried away and making 4 even tinier faces for the 2 small faces. I spent some playing with dimensions and coordinates to get them to fit exactly in the eye spots. This is what the code for that section looks like:
+### As I mentioned earlier, I thought it would be funny to make small scale faces and use them as the eyes of the big central face, so that's what I did. I ended up getting a little carried away and making 4 even tinier faces for the 2 small faces. I spent some playing with dimensions and coordinates to get them to fit exactly in the eye spots. This is what the code for that section looks like:
 
 def draw():
 
@@ -37,4 +37,4 @@ def draw():
     drawObject(384, 182, 0.2)
     drawObject(336, 182, 0.2)
 
-### This part was fun, and made a lot of sense.
+### This part was fun, and made a lot of sense, so there weren't really any issues!
