@@ -9,9 +9,11 @@
 ### I made the formula for a nested loop. I remembered that the outer loop counts for how many rows are printed, and the inner loop is how many objects are printed in each row. Basically the same as our pyramid assignment but slightly less complicated because we didn't need to print spaces as well. The final code ended up looking like this:
 
 def setup():
+
     size(600, 600)
 
 def drawObject(x, y, s):
+
     push()
     translate(x, y)
     scale(s)
@@ -25,6 +27,7 @@ def drawObject(x, y, s):
     pop()
 
 def draw():
+
     for p in range(10):
         for k in range(10):
             drawObject(60*k-30,p*60-30,0.4)
