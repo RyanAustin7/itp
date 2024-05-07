@@ -12,7 +12,7 @@
 ### And that's really it! It now functions like a website (without a domain)
 
 ## Demo
-[Ryan's Website](ryanaustin7.github.io)
+[Ryan's Website](https://ryanaustin7.github.io/)
 
 ## What Works? (Hardware, Software, Playability, Construction)
 ### Using it on my desktop or on mobile both work great. All the videos run great, the links work in my socials tab, the colors are nice, everything is functional!
