@@ -27,6 +27,9 @@
 #### I want to have music players of stuff i've written in the music tab and move the videos of me playing guitar into a separate guitar tab or something.  
 #### I want to clean some things up, like fonts and capitalization of certain letters and adding more videos and wording, etc.
 
-# References that I could find retrospectively (sorry)
-#### https://www.w3schools.com/html/ for many parts (navbar, referencing other files, audio player, resizing, vw vs px for adaptive fonts)
-#### 
+## References that I could find retrospectively (sorry)
+#### https://www.w3schools.com/html/ for many parts (navbar, referencing other files, audio player, vw vs px for adaptive fonts, media screen sections)
+#### https://stackoverflow.com/questions/5802183/image-over-a-video-html5 for images over videos  
+#### https://stackoverflow.com/questions/9428893/how-do-you-make-a-gradient-background-in-css gradient background
+#### https://stackoverflow.com/questions/23662621/html-meta-viewport-tag meta tag for responsive webpage
+#### I'm sure there are others that I couldn't find or remember but I know I accessed these pages!
